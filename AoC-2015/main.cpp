@@ -4,11 +4,10 @@
 //
 //  Created by João Paulo Arnold Barros on 05/10/23.
 //
-
-#include <iostream>
+#include "day7.hpp"
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    executeDay7Puzzle();
+    
     return 0;
 }

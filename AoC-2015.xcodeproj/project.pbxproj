@@ -7,7 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D06298472ACE771300B669C9 /* day2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D06298452ACE771300B669C9 /* day2.cpp */; };
+		D062984E2ACF23EC00B669C9 /* day3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D062984C2ACF23EC00B669C9 /* day3.cpp */; };
+		D06298552ACF9A5300B669C9 /* day4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D06298532ACF9A5300B669C9 /* day4.cpp */; };
+		D062985B2ACF9C0E00B669C9 /* md5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D06298592ACF9C0E00B669C9 /* md5.cpp */; };
+		D062985F2ACFAF6400B669C9 /* day5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D062985D2ACFAF6400B669C9 /* day5.cpp */; };
+		D06298642AD07CA800B669C9 /* day6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D06298622AD07CA800B669C9 /* day6.cpp */; };
+		D06298692AD0ED8B00B669C9 /* day7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D06298672AD0ED8B00B669C9 /* day7.cpp */; };
 		D0ABF1372ACE6208008FE5D6 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D0ABF1362ACE6208008FE5D6 /* main.cpp */; };
+		D0ABF1402ACE6253008FE5D6 /* day1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D0ABF13E2ACE6253008FE5D6 /* day1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +31,29 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		D06298452ACE771300B669C9 /* day2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = day2.cpp; sourceTree = "<group>"; };
+		D06298462ACE771300B669C9 /* day2.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = day2.hpp; sourceTree = "<group>"; };
+		D062984C2ACF23EC00B669C9 /* day3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = day3.cpp; sourceTree = "<group>"; };
+		D062984D2ACF23EC00B669C9 /* day3.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = day3.hpp; sourceTree = "<group>"; };
+		D062984F2ACF24CD00B669C9 /* instructions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = instructions.txt; sourceTree = "<group>"; };
+		D06298502ACF250600B669C9 /* instructions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = instructions.txt; sourceTree = "<group>"; };
+		D06298532ACF9A5300B669C9 /* day4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = day4.cpp; sourceTree = "<group>"; };
+		D06298542ACF9A5300B669C9 /* day4.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = day4.hpp; sourceTree = "<group>"; };
+		D06298592ACF9C0E00B669C9 /* md5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = md5.cpp; sourceTree = "<group>"; };
+		D062985A2ACF9C0E00B669C9 /* md5.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = md5.hpp; sourceTree = "<group>"; };
+		D062985D2ACFAF6400B669C9 /* day5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = day5.cpp; sourceTree = "<group>"; };
+		D062985E2ACFAF6400B669C9 /* day5.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = day5.hpp; sourceTree = "<group>"; };
+		D06298602ACFAFAF00B669C9 /* instructions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = instructions.txt; sourceTree = "<group>"; };
+		D06298622AD07CA800B669C9 /* day6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = day6.cpp; sourceTree = "<group>"; };
+		D06298632AD07CA800B669C9 /* day6.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = day6.hpp; sourceTree = "<group>"; };
+		D06298652AD0820000B669C9 /* instructions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = instructions.txt; sourceTree = "<group>"; };
+		D06298672AD0ED8B00B669C9 /* day7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = day7.cpp; sourceTree = "<group>"; };
+		D06298682AD0ED8B00B669C9 /* day7.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = day7.hpp; sourceTree = "<group>"; };
+		D062986A2AD0F6DA00B669C9 /* instructions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = instructions.txt; sourceTree = "<group>"; };
 		D0ABF1332ACE6208008FE5D6 /* AoC-2015 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "AoC-2015"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0ABF1362ACE6208008FE5D6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D0ABF13E2ACE6253008FE5D6 /* day1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = day1.cpp; sourceTree = "<group>"; };
+		D0ABF13F2ACE6253008FE5D6 /* day1.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = day1.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +67,67 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D06298442ACE76FF00B669C9 /* Day2 */ = {
+			isa = PBXGroup;
+			children = (
+				D06298502ACF250600B669C9 /* instructions.txt */,
+				D06298452ACE771300B669C9 /* day2.cpp */,
+				D06298462ACE771300B669C9 /* day2.hpp */,
+			);
+			path = Day2;
+			sourceTree = "<group>";
+		};
+		D062984B2ACF23D500B669C9 /* Day3 */ = {
+			isa = PBXGroup;
+			children = (
+				D062984F2ACF24CD00B669C9 /* instructions.txt */,
+				D062984C2ACF23EC00B669C9 /* day3.cpp */,
+				D062984D2ACF23EC00B669C9 /* day3.hpp */,
+			);
+			path = Day3;
+			sourceTree = "<group>";
+		};
+		D06298522ACF9A4200B669C9 /* Day4 */ = {
+			isa = PBXGroup;
+			children = (
+				D06298532ACF9A5300B669C9 /* day4.cpp */,
+				D06298542ACF9A5300B669C9 /* day4.hpp */,
+				D06298592ACF9C0E00B669C9 /* md5.cpp */,
+				D062985A2ACF9C0E00B669C9 /* md5.hpp */,
+			);
+			path = Day4;
+			sourceTree = "<group>";
+		};
+		D062985C2ACFAF5700B669C9 /* Day5 */ = {
+			isa = PBXGroup;
+			children = (
+				D06298602ACFAFAF00B669C9 /* instructions.txt */,
+				D062985D2ACFAF6400B669C9 /* day5.cpp */,
+				D062985E2ACFAF6400B669C9 /* day5.hpp */,
+			);
+			path = Day5;
+			sourceTree = "<group>";
+		};
+		D06298612AD07C8E00B669C9 /* Day6 */ = {
+			isa = PBXGroup;
+			children = (
+				D06298652AD0820000B669C9 /* instructions.txt */,
+				D06298622AD07CA800B669C9 /* day6.cpp */,
+				D06298632AD07CA800B669C9 /* day6.hpp */,
+			);
+			path = Day6;
+			sourceTree = "<group>";
+		};
+		D06298662AD0ED7C00B669C9 /* Day7 */ = {
+			isa = PBXGroup;
+			children = (
+				D062986A2AD0F6DA00B669C9 /* instructions.txt */,
+				D06298672AD0ED8B00B669C9 /* day7.cpp */,
+				D06298682AD0ED8B00B669C9 /* day7.hpp */,
+			);
+			path = Day7;
+			sourceTree = "<group>";
+		};
 		D0ABF12A2ACE6208008FE5D6 = {
 			isa = PBXGroup;
 			children = (
@@ -57,9 +147,25 @@
 		D0ABF1352ACE6208008FE5D6 /* AoC-2015 */ = {
 			isa = PBXGroup;
 			children = (
+				D06298662AD0ED7C00B669C9 /* Day7 */,
+				D06298612AD07C8E00B669C9 /* Day6 */,
+				D062985C2ACFAF5700B669C9 /* Day5 */,
+				D06298522ACF9A4200B669C9 /* Day4 */,
+				D062984B2ACF23D500B669C9 /* Day3 */,
+				D06298442ACE76FF00B669C9 /* Day2 */,
+				D0ABF13D2ACE6235008FE5D6 /* Day1 */,
 				D0ABF1362ACE6208008FE5D6 /* main.cpp */,
 			);
 			path = "AoC-2015";
+			sourceTree = "<group>";
+		};
+		D0ABF13D2ACE6235008FE5D6 /* Day1 */ = {
+			isa = PBXGroup;
+			children = (
+				D0ABF13E2ACE6253008FE5D6 /* day1.cpp */,
+				D0ABF13F2ACE6253008FE5D6 /* day1.hpp */,
+			);
+			path = Day1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,7 +225,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D062985B2ACF9C0E00B669C9 /* md5.cpp in Sources */,
+				D0ABF1402ACE6253008FE5D6 /* day1.cpp in Sources */,
+				D06298692AD0ED8B00B669C9 /* day7.cpp in Sources */,
 				D0ABF1372ACE6208008FE5D6 /* main.cpp in Sources */,
+				D062984E2ACF23EC00B669C9 /* day3.cpp in Sources */,
+				D06298552ACF9A5300B669C9 /* day4.cpp in Sources */,
+				D06298642AD07CA800B669C9 /* day6.cpp in Sources */,
+				D06298472ACE771300B669C9 /* day2.cpp in Sources */,
+				D062985F2ACFAF6400B669C9 /* day5.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
